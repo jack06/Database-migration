@@ -1,0 +1,126 @@
+PATCH http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T022042.500.html
+
+###
+
+POST http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T022037.200.html
+
+###
+
+GET http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T022024.200.html
+
+###
+
+PUT http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T022011.500.html
+
+###
+
+delete http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T021920.500.html
+
+###
+
+delete http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T021841.500.html
+
+###
+
+delete http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+delete http://localhost:9999/HelloServlet.do\
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.baidu.com/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://www.baidu.com/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://www.baidu.com
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T114516.200.html
+
+###
+
+PUT http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T114452.200.html
+
+###
+
+PUT http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T114402.200.html
+
+###
+
+POST http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T114355.200.html
+
+###
+
+GET http://localhost:9999/HelloServlet.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T114345.200.html
+
+###
+
+GET http://localhost:9999/HelloServlet
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-10T114341.404.html
+
+###
+
